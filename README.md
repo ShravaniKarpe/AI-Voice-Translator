@@ -1,32 +1,36 @@
 # 🌍 AI Voice Translator
 
-A desktop application built using Python that converts speech from one language into another language using AI.
+An AI-powered desktop application that enables real-time voice translation between multiple languages.
 
-## Features
+## ✨ Features
 
 - 🎤 Speech Recognition
 - 🌍 Language Translation
 - 🔊 Text-to-Speech
 - 🔄 Language Swap
-- 🖥️ CustomTkinter GUI
+- 💬 Conversation Mode
+- 🟢 Professional Status Bar
+- 🖥️ Modern CustomTkinter Interface
 
-## Technologies Used
+## 📷 Screenshot
+
+![AI Voice Translator](assets/screenshot_v2.png)
+
+## 🛠️ Technologies Used
 
 - Python
 - CustomTkinter
 - SpeechRecognition
 - Deep Translator
 - gTTS
-- Pygame
+- pygame
 
-## Supported Languages
+## 🚀 Future Goals
 
-- English
-- Marathi
-- Hindi
-- Tamil
-- Telugu
+- Flutter Android App
+- Live Voice Call Translation
+- AI Context-Aware Translation
+- Offline Translation
 
-## Author
-
-Shravani Sachin Karpe
+# Author
+SHRAVANI SACHIN KARPE.
